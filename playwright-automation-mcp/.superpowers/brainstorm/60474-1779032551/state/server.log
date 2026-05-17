@@ -1,0 +1,4 @@
+{"type":"server-started","port":64594,"host":"127.0.0.1","url_host":"localhost","url":"http://localhost:64594","screen_dir":"/Users/dipayandutta/Developer/python/testing/playwright-automation-mcp/.superpowers/brainstorm/60474-1779032551/content","state_dir":"/Users/dipayandutta/Developer/python/testing/playwright-automation-mcp/.superpowers/brainstorm/60474-1779032551/state"}
+{"type":"screen-added","file":"/Users/dipayandutta/Developer/python/testing/playwright-automation-mcp/.superpowers/brainstorm/60474-1779032551/content/login-layout.html"}
+{"type":"screen-added","file":"/Users/dipayandutta/Developer/python/testing/playwright-automation-mcp/.superpowers/brainstorm/60474-1779032551/content/waiting-1.html"}
+{"type":"server-stopped","reason":"owner process exited"}

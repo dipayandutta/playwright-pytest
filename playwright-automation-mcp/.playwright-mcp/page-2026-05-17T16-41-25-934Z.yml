@@ -1,0 +1,16 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - heading "Welcome Back" [level=1] [ref=e4]
+    - paragraph [ref=e5]: Sign in to continue
+  - generic [ref=e7]:
+    - heading "Sign In" [level=2] [ref=e8]
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Username
+        - textbox "Username" [active] [ref=e12]:
+          - /placeholder: Enter username
+      - generic [ref=e13]:
+        - generic [ref=e14]: Password
+        - textbox "Password" [ref=e15]:
+          - /placeholder: Enter password
+      - button "Login" [ref=e16] [cursor=pointer]
